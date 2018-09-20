@@ -1,3 +1,3 @@
 # Calculator
 - Implemented various Data Structures manually
-- Implemented the logic of a Calculator in Java
+- Implemented the logic (ExpressionEvaluator.java) of a Calculator
